@@ -28,9 +28,12 @@ Este projeto explora formas de **manter observabilidade sem comprometer o throug
 ## 🛠️ Tecnologias utilizadas
 
 - C#
-- .NET 6+
-- `Microsoft.Extensions.Logging`
-
+- .NET 8+
+- Microsoft.Extensions.Logging" Version="10.0.1"
+- Microsoft.Extensions.Logging.Abstractions" Version="10.0.1"
+- Microsoft.Extensions.Telemetry" Version="10.1.0"
+- Microsoft.Extensions.Compliance.Abstractions" Version="*"
+- Microsoft.Extensions.Compliance.Redaction" Version="10.1.0"
 ---
 
 ## ▶️ Como executar
